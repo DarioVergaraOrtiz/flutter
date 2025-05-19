@@ -1,0 +1,26 @@
+name: divorce_party_flutter
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.5
+
+  google_fonts: ^4.0.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/party_bg.jpg
+
+  fonts:
+    - family: PoetsenOne
+      fonts:
+        - asset: assets/fonts/PoetsenOne-Regular.ttf
