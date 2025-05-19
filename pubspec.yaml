@@ -19,8 +19,14 @@ flutter:
 
   assets:
     - assets/images/party_bg.jpg
+    - assets/icons/ic_calendar.png
+    - assets/icons/ic_location.png
+    - assets/icons/ic_phone.png
+    - assets/icons/ic_share.png
+    - assets/icons/instagram.png
 
   fonts:
     - family: PoetsenOne
       fonts:
         - asset: assets/fonts/PoetsenOne-Regular.ttf
+          weight: 400
